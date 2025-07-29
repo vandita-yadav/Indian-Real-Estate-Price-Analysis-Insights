@@ -31,7 +31,7 @@ Applied IQR-based filtering to improve data quality for features like price, are
 
 Conducted visual analyses using Pandas, Matplotlib, and Seaborn.
 
-Visualizations
+♦ Visualizations
 
 -Price distribution histograms
 
@@ -43,7 +43,7 @@ Visualizations
 
 -Locality-based price analysis
 
--Affordability Index
+-Affordability Index 
 
 Identified regions offering better price-to-value ratios.
 
