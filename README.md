@@ -3,7 +3,7 @@ Project evaluation for CA2: EDA &amp; Visualization on Dataset
 
 A Data Science project focused on analyzing and visualizing residential property pricing trends across India. The goal was to extract meaningful insights and assist buyers, investors, and analysts through data-driven decision-making. 
 
- Project Overview
+♦ Project Overview
  
 This project explores the Indian housing market using structured real estate data and leverages the power of Python to perform:
 
@@ -17,7 +17,7 @@ This project explores the Indian housing market using structured real estate dat
 
 -Affordability & investment insights
 
-Key Features
+♦Key Features
 
 -Data Cleaning
 
@@ -41,23 +41,23 @@ Conducted visual analyses using Pandas, Matplotlib, and Seaborn.
 
 -Boxplots and furnishing/parking impact
 
--Locality-based price analysis
+♦Locality-based price analysis
 
 -Affordability Index 
 
-Identified regions offering better price-to-value ratios.
+-Identified regions offering better price-to-value ratios.
 
-Investment Insights
+-Investment Insights
 Pinpointed potential high-return localities and pricing patterns.
 
-Enhanced Storytelling
+-Enhanced Storytelling
 Formatted visuals with currency markers, improved legends, and layout for clarity.
 
-Tech Stack
+♦Tech Stack
 
-Language: Python
+=Language: Python
 
-Libraries: Pandas, NumPy, Matplotlib, Seaborn
+-Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
 This project demonstrates end-to-end Data Science capabilities — from raw data handling to actionable insights and visual storytelling. It provides a clear view of India's real estate trends and empowers data-backed decisions.
 
